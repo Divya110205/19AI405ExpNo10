@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-## Ain:
-
+## Aim:
+To implement classical planning for the Blocks World using state-space search.
 ## Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
@@ -84,3 +84,4 @@ print(plan)
 
 
 ## Result:
+The program successfully generated a valid sequence of actions (plan) that transforms the initial state into the goal state
